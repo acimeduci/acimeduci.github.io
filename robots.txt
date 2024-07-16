@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acimeduci.github.io/sitemap
+Sitemap: https://acimeduci.github.io/app/sitemap
+Sitemap: https://acimeduci.github.io/assets/sitemap
+Sitemap: https://acimeduci.github.io/css/sitemap
+Sitemap: https://acimeduci.github.io/includes/sitemap
+Sitemap: https://acimeduci.github.io/item/sitemap
+Sitemap: https://acimeduci.github.io/src/sitemap
